@@ -1,0 +1,22 @@
+{
+  "name": "propianist1124-ui",
+  "version": "1.0.0",
+  "description": "a custom component library for my projects",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "console.log(\"working\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proPianist1124/propianist1124_ui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "proPianist1124",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/proPianist1124/propianist1124_ui/issues"
+  },
+  "homepage": "https://github.com/proPianist1124/propianist1124_ui#readme"
+}
